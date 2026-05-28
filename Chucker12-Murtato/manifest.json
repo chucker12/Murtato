@@ -1,0 +1,25 @@
+{
+	"name": "Murtato",
+	"namespace": "Chucker12",
+	"version_number": "1.0.0",
+	"description": "An attempt at a co-op meta progression mod",
+	"website_url": "https://github.com/chucker12/Murtato/tree/main",
+	"dependencies": [
+		
+	],
+	"extra": {
+		"godot": {
+			"authors": ["Chucker12"],
+			"tags": ["new_mechanics", "items"],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [
+				
+			],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.1.15.4"],
+			"config_schema": {}
+		}
+	}
+}
