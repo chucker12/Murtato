@@ -1,0 +1,17 @@
+[gd_scene format=2]
+
+[node name="Meta_Coins_Label" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 4.0
+margin_top = 8.0
+margin_right = 4.0
+margin_bottom = 8.0
+rect_scale = Vector2( 1, 0.995852 )
+
+[node name="Label" type="Label" parent="."]
+margin_right = 40.0
+margin_bottom = 14.0
+rect_scale = Vector2( 17.2992, 16.917 )
+text = "Meta Coins: 0000"
+align = 1
